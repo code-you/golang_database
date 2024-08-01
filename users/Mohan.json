@@ -1,0 +1,12 @@
+{
+	"name": "Mohan",
+	"age": 23,
+	"contact": "2324243424",
+	"company": "Murl Tech",
+	"address": {
+		"city": "Banglore",
+		"state": "Karnataka",
+		"country": "India",
+		"pincode": 274372
+	}
+}
